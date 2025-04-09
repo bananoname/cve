@@ -1,10 +1,11 @@
-# SQL Injection Vulnerability in IFSC Code Finder Project
+# SQL Injection Vulnerability in Men Salon Management System Using PHP and MySQL
+
 
 ## 🛠 Affected Product
-- **Product:** IFSC Code Finder Project  
+- **Product:** Men Salon Management System Using PHP and MySQL  
 - **Version:** v1.0  
-- **Vendor:** [phpgurukul.com](https://phpgurukul.com/ifsc-code-finder-project-using-php/)  
-- **Download Link:** [Download v1.0](https://phpgurukul.com/?sdm_process_download=1&download_id=14478)
+- **Vendor:** [phpgurukul.com](https://phpgurukul.com/men-salon-management-system-using-php-and-mysql/)  
+- **Download Link:** [Download v1.0](https://phpgurukul.com/?sdm_process_download=1&download_id=14066)
 
 ---
 
